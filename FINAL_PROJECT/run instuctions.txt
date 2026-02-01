@@ -1,0 +1,5 @@
+run cmd in administrator
+
+venv\Scripts\activate
+
+python run.py --mode offline --pcap-path "C:\Users\mmnab\OneDrive\Desktop\FINAL_PROJECT\sample1.pcap"

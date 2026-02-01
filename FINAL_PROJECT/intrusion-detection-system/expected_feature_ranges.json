@@ -1,0 +1,471 @@
+[
+  {
+    "index": 0,
+    "min_expected": -27154.0,
+    "max_expected": 27314.0,
+    "typical_value": 80.0,
+    "range_magnitude": 54468.0
+  },
+  {
+    "index": 1,
+    "min_expected": -27.0,
+    "max_expected": 39.0,
+    "typical_value": 6.0,
+    "range_magnitude": 66.0
+  },
+  {
+    "index": 2,
+    "min_expected": -35986591.9,
+    "max_expected": 35991365.9,
+    "typical_value": 2387.0,
+    "range_magnitude": 71977957.8
+  },
+  {
+    "index": 3,
+    "min_expected": -61.0,
+    "max_expected": 65.0,
+    "typical_value": 2.0,
+    "range_magnitude": 126.0
+  },
+  {
+    "index": 4,
+    "min_expected": -59.0,
+    "max_expected": 61.0,
+    "typical_value": 1.0,
+    "range_magnitude": 120.0
+  },
+  {
+    "index": 5,
+    "min_expected": -5736.0,
+    "max_expected": 5736.0,
+    "typical_value": 0.0,
+    "range_magnitude": 11472.0
+  },
+  {
+    "index": 6,
+    "min_expected": -7995.0,
+    "max_expected": 7995.0,
+    "typical_value": 0.0,
+    "range_magnitude": 15990.0
+  },
+  {
+    "index": 7,
+    "min_expected": -1920.0,
+    "max_expected": 1920.0,
+    "typical_value": 0.0,
+    "range_magnitude": 3840.0
+  },
+  {
+    "index": 8,
+    "min_expected": -102.0,
+    "max_expected": 102.0,
+    "typical_value": 0.0,
+    "range_magnitude": 204.0
+  },
+  {
+    "index": 9,
+    "min_expected": -373.71428571849003,
+    "max_expected": 373.71428571849003,
+    "typical_value": 0.0,
+    "range_magnitude": 747.4285714369801
+  },
+  {
+    "index": 10,
+    "min_expected": -668.3760705,
+    "max_expected": 668.3760705,
+    "typical_value": 0.0,
+    "range_magnitude": 1336.752141
+  },
+  {
+    "index": 11,
+    "min_expected": -2928.0,
+    "max_expected": 2928.0,
+    "typical_value": 0.0,
+    "range_magnitude": 5856.0
+  },
+  {
+    "index": 12,
+    "min_expected": -183.0,
+    "max_expected": 183.0,
+    "typical_value": 0.0,
+    "range_magnitude": 366.0
+  },
+  {
+    "index": 13,
+    "min_expected": -729.0,
+    "max_expected": 729.0,
+    "typical_value": 0.0,
+    "range_magnitude": 1458.0
+  },
+  {
+    "index": 14,
+    "min_expected": -1458.0,
+    "max_expected": 1458.0,
+    "typical_value": 0.0,
+    "range_magnitude": 2916.0
+  },
+  {
+    "index": 15,
+    "min_expected": -471467.03305499983,
+    "max_expected": 471467.03305499983,
+    "typical_value": 0.0,
+    "range_magnitude": 942934.0661099997
+  },
+  {
+    "index": 16,
+    "min_expected": -2999056.118714487,
+    "max_expected": 3000940.181563587,
+    "typical_value": 942.03142455,
+    "range_magnitude": 5999996.300278074
+  },
+  {
+    "index": 17,
+    "min_expected": -6265738.449999987,
+    "max_expected": 6269108.449999987,
+    "typical_value": 1685.0,
+    "range_magnitude": 12534846.899999974
+  },
+  {
+    "index": 18,
+    "min_expected": -7884128.795712403,
+    "max_expected": 7884128.795712403,
+    "typical_value": 0.0,
+    "range_magnitude": 15768257.591424806
+  },
+  {
+    "index": 19,
+    "min_expected": -26988970.199999996,
+    "max_expected": 26993686.199999996,
+    "typical_value": 2358.0,
+    "range_magnitude": 53982656.39999999
+  },
+  {
+    "index": 20,
+    "min_expected": -654948.1499999992,
+    "max_expected": 654966.1499999992,
+    "typical_value": 9.0,
+    "range_magnitude": 1309914.2999999984
+  },
+  {
+    "index": 21,
+    "min_expected": -27088974.9,
+    "max_expected": 27090276.9,
+    "typical_value": 651.0,
+    "range_magnitude": 54179251.8
+  },
+  {
+    "index": 22,
+    "min_expected": -8014990.0,
+    "max_expected": 8016044.0,
+    "typical_value": 527.0,
+    "range_magnitude": 16031034.0
+  },
+  {
+    "index": 23,
+    "min_expected": -9979568.597028438,
+    "max_expected": 9979568.597028438,
+    "typical_value": 0.0,
+    "range_magnitude": 19959137.194056876
+  },
+  {
+    "index": 24,
+    "min_expected": -21002870.69999998,
+    "max_expected": 21004076.69999998,
+    "typical_value": 603.0,
+    "range_magnitude": 42006947.39999996
+  },
+  {
+    "index": 25,
+    "min_expected": -3007803.1499999994,
+    "max_expected": 3007965.1499999994,
+    "typical_value": 81.0,
+    "range_magnitude": 6015768.299999999
+  },
+  {
+    "index": 26,
+    "min_expected": -20908383.15,
+    "max_expected": 20908383.15,
+    "typical_value": 0.0,
+    "range_magnitude": 41816766.3
+  },
+  {
+    "index": 27,
+    "min_expected": -10035476.699999992,
+    "max_expected": 10035476.699999992,
+    "typical_value": 0.0,
+    "range_magnitude": 20070953.399999984
+  },
+  {
+    "index": 28,
+    "min_expected": -10185565.710430287,
+    "max_expected": 10185565.710430287,
+    "typical_value": 0.0,
+    "range_magnitude": 20371131.420860574
+  },
+  {
+    "index": 29,
+    "min_expected": -19745179.19999999,
+    "max_expected": 19745179.19999999,
+    "typical_value": 0.0,
+    "range_magnitude": 39490358.39999998
+  },
+  {
+    "index": 30,
+    "min_expected": -10353.89999999979,
+    "max_expected": 10353.89999999979,
+    "typical_value": 0.0,
+    "range_magnitude": 20707.79999999958
+  },
+  {
+    "index": 31,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 32,
+    "min_expected": -2072.0,
+    "max_expected": 2152.0,
+    "typical_value": 40.0,
+    "range_magnitude": 4224.0
+  },
+  {
+    "index": 33,
+    "min_expected": -1924.0,
+    "max_expected": 1964.0,
+    "typical_value": 20.0,
+    "range_magnitude": 3888.0
+  },
+  {
+    "index": 34,
+    "min_expected": -1499265.3241984092,
+    "max_expected": 1500732.6756290093,
+    "typical_value": 733.6757153,
+    "range_magnitude": 2999997.9998274185
+  },
+  {
+    "index": 35,
+    "min_expected": -1499946.4062862876,
+    "max_expected": 1500053.5937137124,
+    "typical_value": 53.593713712500005,
+    "range_magnitude": 3000000.0
+  },
+  {
+    "index": 36,
+    "min_expected": -102.0,
+    "max_expected": 102.0,
+    "typical_value": 0.0,
+    "range_magnitude": 204.0
+  },
+  {
+    "index": 37,
+    "min_expected": -2928.0,
+    "max_expected": 2928.0,
+    "typical_value": 0.0,
+    "range_magnitude": 5856.0
+  },
+  {
+    "index": 38,
+    "min_expected": -480.6666666666,
+    "max_expected": 480.6666666666,
+    "typical_value": 0.0,
+    "range_magnitude": 961.3333333332
+  },
+  {
+    "index": 39,
+    "min_expected": -1005.4390299,
+    "max_expected": 1005.4390299,
+    "typical_value": 0.0,
+    "range_magnitude": 2010.8780598
+  },
+  {
+    "index": 40,
+    "min_expected": -336969.2142,
+    "max_expected": 336969.2142,
+    "typical_value": 0.0,
+    "range_magnitude": 673938.4284
+  },
+  {
+    "index": 41,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 42,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 43,
+    "min_expected": -2.0,
+    "max_expected": 4.0,
+    "typical_value": 1.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 44,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 45,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 46,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 47,
+    "min_expected": -2.0,
+    "max_expected": 4.0,
+    "typical_value": 1.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 48,
+    "min_expected": -541.8,
+    "max_expected": 541.8,
+    "typical_value": 0.0,
+    "range_magnitude": 1083.6
+  },
+  {
+    "index": 49,
+    "min_expected": -373.71428571849003,
+    "max_expected": 373.71428571849003,
+    "typical_value": 0.0,
+    "range_magnitude": 747.4285714369801
+  },
+  {
+    "index": 50,
+    "min_expected": -729.0,
+    "max_expected": 729.0,
+    "typical_value": 0.0,
+    "range_magnitude": 1458.0
+  },
+  {
+    "index": 51,
+    "min_expected": -61.0,
+    "max_expected": 65.0,
+    "typical_value": 2.0,
+    "range_magnitude": 126.0
+  },
+  {
+    "index": 52,
+    "min_expected": -5736.0,
+    "max_expected": 5736.0,
+    "typical_value": 0.0,
+    "range_magnitude": 11472.0
+  },
+  {
+    "index": 53,
+    "min_expected": -59.0,
+    "max_expected": 61.0,
+    "typical_value": 1.0,
+    "range_magnitude": 120.0
+  },
+  {
+    "index": 54,
+    "min_expected": -7995.0,
+    "max_expected": 7995.0,
+    "typical_value": 0.0,
+    "range_magnitude": 15990.0
+  },
+  {
+    "index": 55,
+    "min_expected": -90025.0,
+    "max_expected": 106409.0,
+    "typical_value": 8192.0,
+    "range_magnitude": 196434.0
+  },
+  {
+    "index": 56,
+    "min_expected": -861.1499999999651,
+    "max_expected": 861.1499999999651,
+    "typical_value": 0.0,
+    "range_magnitude": 1722.2999999999302
+  },
+  {
+    "index": 57,
+    "min_expected": -48.0,
+    "max_expected": 48.0,
+    "typical_value": 0.0,
+    "range_magnitude": 96.0
+  },
+  {
+    "index": 58,
+    "min_expected": -64.0,
+    "max_expected": 128.0,
+    "typical_value": 32.0,
+    "range_magnitude": 192.0
+  },
+  {
+    "index": 59,
+    "min_expected": -1227.0,
+    "max_expected": 1227.0,
+    "typical_value": 0.0,
+    "range_magnitude": 2454.0
+  },
+  {
+    "index": 60,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 61,
+    "min_expected": -1227.0,
+    "max_expected": 1227.0,
+    "typical_value": 0.0,
+    "range_magnitude": 2454.0
+  },
+  {
+    "index": 62,
+    "min_expected": -1191.0,
+    "max_expected": 1191.0,
+    "typical_value": 0.0,
+    "range_magnitude": 2382.0
+  },
+  {
+    "index": 63,
+    "min_expected": -20998020.299999997,
+    "max_expected": 20998020.299999997,
+    "typical_value": 0.0,
+    "range_magnitude": 41996040.599999994
+  },
+  {
+    "index": 64,
+    "min_expected": -3.0,
+    "max_expected": 3.0,
+    "typical_value": 0.0,
+    "range_magnitude": 6.0
+  },
+  {
+    "index": 65,
+    "min_expected": -21006387.299999997,
+    "max_expected": 21006387.299999997,
+    "typical_value": 0.0,
+    "range_magnitude": 42012774.599999994
+  },
+  {
+    "index": 66,
+    "min_expected": -20913255.6,
+    "max_expected": 20913255.6,
+    "typical_value": 0.0,
+    "range_magnitude": 41826511.2
+  }
+]

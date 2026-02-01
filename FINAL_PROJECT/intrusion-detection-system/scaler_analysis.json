@@ -1,0 +1,404 @@
+[
+  {
+    "index": 0,
+    "center": 80.0,
+    "scale": 9078.0,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 1,
+    "center": 6.0,
+    "scale": 11.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 2,
+    "center": 2387.0,
+    "scale": 11996326.299999999,
+    "category": "HUGE"
+  },
+  {
+    "index": 3,
+    "center": 2.0,
+    "scale": 21.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 4,
+    "center": 1.0,
+    "scale": 20.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 5,
+    "center": 0.0,
+    "scale": 1912.0,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 6,
+    "center": 0.0,
+    "scale": 2665.0,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 7,
+    "center": 0.0,
+    "scale": 640.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 8,
+    "center": 0.0,
+    "scale": 34.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 9,
+    "center": 0.0,
+    "scale": 124.57142857283,
+    "category": "SMALL"
+  },
+  {
+    "index": 10,
+    "center": 0.0,
+    "scale": 222.7920235,
+    "category": "SMALL"
+  },
+  {
+    "index": 11,
+    "center": 0.0,
+    "scale": 976.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 12,
+    "center": 0.0,
+    "scale": 61.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 13,
+    "center": 0.0,
+    "scale": 243.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 14,
+    "center": 0.0,
+    "scale": 486.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 15,
+    "center": 0.0,
+    "scale": 157155.67768499994,
+    "category": "LARGE"
+  },
+  {
+    "index": 16,
+    "center": 942.03142455,
+    "scale": 999999.383379679,
+    "category": "LARGE"
+  },
+  {
+    "index": 17,
+    "center": 1685.0,
+    "scale": 2089141.1499999957,
+    "category": "HUGE"
+  },
+  {
+    "index": 18,
+    "center": 0.0,
+    "scale": 2628042.9319041343,
+    "category": "HUGE"
+  },
+  {
+    "index": 19,
+    "center": 2358.0,
+    "scale": 8997109.399999999,
+    "category": "HUGE"
+  },
+  {
+    "index": 20,
+    "center": 9.0,
+    "scale": 218319.04999999976,
+    "category": "LARGE"
+  },
+  {
+    "index": 21,
+    "center": 651.0,
+    "scale": 9029875.299999999,
+    "category": "HUGE"
+  },
+  {
+    "index": 22,
+    "center": 527.0,
+    "scale": 2671839.0,
+    "category": "HUGE"
+  },
+  {
+    "index": 23,
+    "center": 0.0,
+    "scale": 3326522.865676146,
+    "category": "HUGE"
+  },
+  {
+    "index": 24,
+    "center": 603.0,
+    "scale": 7001157.899999993,
+    "category": "HUGE"
+  },
+  {
+    "index": 25,
+    "center": 81.0,
+    "scale": 1002628.0499999998,
+    "category": "HUGE"
+  },
+  {
+    "index": 26,
+    "center": 0.0,
+    "scale": 6969461.05,
+    "category": "HUGE"
+  },
+  {
+    "index": 27,
+    "center": 0.0,
+    "scale": 3345158.8999999976,
+    "category": "HUGE"
+  },
+  {
+    "index": 28,
+    "center": 0.0,
+    "scale": 3395188.570143429,
+    "category": "HUGE"
+  },
+  {
+    "index": 29,
+    "center": 0.0,
+    "scale": 6581726.399999998,
+    "category": "HUGE"
+  },
+  {
+    "index": 30,
+    "center": 0.0,
+    "scale": 3451.29999999993,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 31,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 32,
+    "center": 40.0,
+    "scale": 704.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 33,
+    "center": 20.0,
+    "scale": 648.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 34,
+    "center": 733.6757153,
+    "scale": 499999.6666379031,
+    "category": "LARGE"
+  },
+  {
+    "index": 35,
+    "center": 53.593713712500005,
+    "scale": 500000.0,
+    "category": "LARGE"
+  },
+  {
+    "index": 36,
+    "center": 0.0,
+    "scale": 34.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 37,
+    "center": 0.0,
+    "scale": 976.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 38,
+    "center": 0.0,
+    "scale": 160.2222222222,
+    "category": "SMALL"
+  },
+  {
+    "index": 39,
+    "center": 0.0,
+    "scale": 335.1463433,
+    "category": "SMALL"
+  },
+  {
+    "index": 40,
+    "center": 0.0,
+    "scale": 112323.0714,
+    "category": "LARGE"
+  },
+  {
+    "index": 41,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 42,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 43,
+    "center": 1.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 44,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 45,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 46,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 47,
+    "center": 1.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 48,
+    "center": 0.0,
+    "scale": 180.6,
+    "category": "SMALL"
+  },
+  {
+    "index": 49,
+    "center": 0.0,
+    "scale": 124.57142857283,
+    "category": "SMALL"
+  },
+  {
+    "index": 50,
+    "center": 0.0,
+    "scale": 243.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 51,
+    "center": 2.0,
+    "scale": 21.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 52,
+    "center": 0.0,
+    "scale": 1912.0,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 53,
+    "center": 1.0,
+    "scale": 20.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 54,
+    "center": 0.0,
+    "scale": 2665.0,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 55,
+    "center": 8192.0,
+    "scale": 32739.0,
+    "category": "MEDIUM"
+  },
+  {
+    "index": 56,
+    "center": 0.0,
+    "scale": 287.04999999998836,
+    "category": "SMALL"
+  },
+  {
+    "index": 57,
+    "center": 0.0,
+    "scale": 16.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 58,
+    "center": 32.0,
+    "scale": 32.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 59,
+    "center": 0.0,
+    "scale": 409.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 60,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 61,
+    "center": 0.0,
+    "scale": 409.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 62,
+    "center": 0.0,
+    "scale": 397.0,
+    "category": "SMALL"
+  },
+  {
+    "index": 63,
+    "center": 0.0,
+    "scale": 6999340.1,
+    "category": "HUGE"
+  },
+  {
+    "index": 64,
+    "center": 0.0,
+    "scale": 1.0,
+    "category": "TINY"
+  },
+  {
+    "index": 65,
+    "center": 0.0,
+    "scale": 7002129.1,
+    "category": "HUGE"
+  },
+  {
+    "index": 66,
+    "center": 0.0,
+    "scale": 6971085.2,
+    "category": "HUGE"
+  }
+]
