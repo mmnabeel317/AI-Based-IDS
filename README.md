@@ -1,10 +1,10 @@
-# Hybrid Intrusion Detection System (IDS)
+# AI-Based Intrusion Detection System (IDS)
 
-A production-ready Windows-compatible Hybrid IDS combining Machine Learning (CNN + Random Forest ensemble) with traditional signature-based detection (Suricata integration).
+A production-ready Windows-compatible AI-Based IDS combining Machine Learning (CNN + Random Forest ensemble) with traditional signature-based detection (Suricata integration).
 
 ## Features
 
-- **Hybrid ML Detection**: CNN with Multi-Head Attention + Random Forest ensemble
+- **AI/ML Detection**: CNN with Multi-Head Attention + Random Forest ensemble
 - **Signature-Based IDS**: Suricata integration with eve.json parsing
 - **Real-Time & Offline Modes**: Live packet capture or PCAP file analysis
 - **Professional GUI**: PyQt6-based interface with real-time threat visualization
